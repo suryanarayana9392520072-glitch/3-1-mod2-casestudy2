@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prompt Strategy Evaluator</string>
+    <string name="title_prompt_evaluation">Prompt Strategy Comparison</string>
+    <string name="subtitle">Evaluate Zero-Shot, Few-Shot, and Structured Prompt Quality</string>
+    <string name="hint_enter_topic">Enter topic (e.g., Sentiment Analysis, Resume Parser, Weather Summary)</string>
+    <string name="btn_zero_shot">Zero-Shot</string>
+    <string name="btn_few_shot">Few-Shot</string>
+    <string name="btn_structured">Structured</string>
+    <string name="btn_clear">Clear Results</string>
+    <string name="title_response_log">Response Log</string>
+    <string name="title_comparison_analysis">Evaluation &amp; Comparison Scorecard</string>
+    <string name="default_results_placeholder">Results will appear here...</string>
+</resources>
